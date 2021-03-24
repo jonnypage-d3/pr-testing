@@ -1,3 +1,3 @@
 console.log('this is feature 1');
 console.log('this is feature 2');
-console.log('this is feature 3');
+console.log('this is feature 3', 'this is feature 3a');
